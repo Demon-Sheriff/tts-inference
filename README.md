@@ -1,4 +1,6 @@
 
+## `cold server plots`
+
 ### `metrics for benchmarking`
 
 ### `Plot 1: chunk_timeline_analysis.png (4 panels)`
@@ -34,3 +36,6 @@ Shows the system is stable after warmup
 
 ### `chunk timeline analysis`
 <img width="2100" height="1500" alt="image" src="https://github.com/user-attachments/assets/0705152c-541c-4cbc-a985-23d230ea1238" />
+
+## `warm server plots`
+
