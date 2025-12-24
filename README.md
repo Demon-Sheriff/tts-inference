@@ -39,3 +39,20 @@ Shows the system is stable after warmup
 
 ## `warm server plots`
 
+### `gap analysis`
+
+<img width="2100" height="1500" alt="image" src="https://github.com/user-attachments/assets/e1e75eb8-6c47-4b72-8d6c-ce64aaf9f1e9" />
+
+### `per prompt sent breakdown while testing`
+
+<img width="2400" height="1200" alt="image" src="https://github.com/user-attachments/assets/0eb74fbf-dc0e-4947-89d6-2632c8875d66" />
+
+### `length sweeps statistics`
+
+<img width="2100" height="1500" alt="image" src="https://github.com/user-attachments/assets/e3cbda5c-2271-418b-8cc9-ff4ce1d7eaf0" />
+
+
+
+
+
+
