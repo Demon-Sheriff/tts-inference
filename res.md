@@ -119,7 +119,7 @@ FRAME_SIZE = 7       # Tokens per SNAC frame
 
 ---
 
-## Abltaions for prompt sweep
+## Ablataions for prompt sweep
 
 ![Sweep Analysis](tensorrt_tts/hindi_finetuned/plot_metrics/output/sweep_analysis.png)
 
